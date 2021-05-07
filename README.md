@@ -2,7 +2,7 @@
 
 CMPE255 Data Mining Project
 
-Our project is motivated by the 
+Our project aims to analyze data on traffic accidents and to build a model for predicting the severity of an accident based on potentially useful information, such as time of day, weather conditions, season of the year, etc.
 
 ---
 
