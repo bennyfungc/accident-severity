@@ -30,6 +30,8 @@ https://www.kaggle.com/sobhanmoosavi/us-accidents
 
 Clone this repo / download each Jupyter Notebook file (.ipynb) and run the notebook.
 
+- `Visualization.ipynb` was used for data exploration and creating useful visualizations of our dataset
+
 - `lightgmbregressionsklearn.ipynb` focuses on our classification task using LightGBM
 
 - `accident_regr_analysis.ipynb` focuses on using linear models for regression task & NN for regression and classification
