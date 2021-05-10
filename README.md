@@ -24,3 +24,12 @@ We make use of the following dataset with 4.2million records of traffic accident
 
 https://www.kaggle.com/sobhanmoosavi/us-accidents
 
+---
+
+## How to run
+
+Clone this repo / download each Jupyter Notebook file (.ipynb) and run the notebook.
+
+- `lightgmbregressionsklearn.ipynb` focuses on our classification task using LightGBM
+
+- `accident_regr_analysis.ipynb` focuses on using linear models for regression task & NN for regression and classification
