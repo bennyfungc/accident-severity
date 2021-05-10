@@ -35,3 +35,5 @@ Clone this repo / download each Jupyter Notebook file (.ipynb) and run the noteb
 - `lightgmbregressionsklearn.ipynb` focuses on our classification task using LightGBM
 
 - `accident_regr_analysis.ipynb` focuses on using linear models for regression task & NN for regression and classification
+
+- `gp.ipynb` focuses on using different models for classification.
