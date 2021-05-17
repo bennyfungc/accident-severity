@@ -28,7 +28,7 @@ https://www.kaggle.com/sobhanmoosavi/us-accidents
 
 ## How to run
 
-Clone this repo / download each Jupyter Notebook file (.ipynb) and run the notebook.
+Clone this repo / download each Jupyter Notebook file (.ipynb) and run the notebook. A subset of our dataset has been provided as `US_Accidents_Dec20.csv`.
 
 - `Visualization.ipynb` was used for data exploration and creating useful visualizations of our dataset
 
